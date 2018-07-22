@@ -18,19 +18,19 @@ My significant other is a vegan and I am not. This inspired me to make an app th
 
 **Barcode Image Analysis**: User uploads image of a product's barcode and the app will analyze the image, then look for ingredients that do not meet the dietary restrictions entered by the user.
 
-**Results Page:** The app will display the ingredients and flag the ingredients that the user can have in a specific color, along with the ingredients that the user can't have in a different color. (Optional) If the user is logged in the page will also give the option to save the product and add any notes to the product (such as being exclusive to a specific store).
+**Results Page**: The app will display the ingredients and flag the ingredients that the user can have in a specific color, along with the ingredients that the user can't have in a different color. (Optional) If the user is logged in the page will also give the option to save the product and add any notes to the product (such as being exclusive to a specific store).
 
 ### Technologies
-*C# MVC
-*SQL Database
-*REST API
-*IronOCR Library
-*HTML
-*CSS
+* C# MVC
+* SQL Database
+* REST API
+* IronOCR Library
+* HTML
+* CSS
 
 ### What I'll Have to Learn
-*REST API
-*IronOCR Library
+* REST API
+* IronOCR Library
 
 ### Project Tracker
 https://trello.com/earlgadel/boards
