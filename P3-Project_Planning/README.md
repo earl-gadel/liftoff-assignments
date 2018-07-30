@@ -8,8 +8,11 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
+* **Landing Page**: https://github.com/earl-gadel/liftoff-assignments/blob/master/P3-Project_Planning/Wire%20Frame%20-%20Landing%20Page.pdf
+* **Result Page**: https://github.com/earl-gadel/liftoff-assignments/blob/master/P3-Project_Planning/Wire%20Frame%20-%20Results%20Page.pdf
+
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+* https://trello.com/b/dsomJWFa/capstone-application
