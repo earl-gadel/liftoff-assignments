@@ -13,5 +13,5 @@ https://github.com/earl-gadel/
 https://www.linkedin.com/in/earl-gadel/
 
 ### Resume
-Same directory as this README:
+Same directory as this README
 https://github.com/earl-gadel/liftoff-assignments/tree/master/C1-Online_Profiles
